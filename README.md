@@ -29,7 +29,6 @@ Esta plataforma de servicios web basada en arquitectura REST fue diseñada para 
    ```sql
    CREATE DATABASE apartamentos;
 
-```
 
 3. **Obtención del Código:** Clona este repositorio en tu espacio de trabajo local usando tu cliente Git.
 4. **Importación:** Abre el directorio raíz del proyecto en tu IDE como un proyecto Maven para que descargue las dependencias necesarias.
